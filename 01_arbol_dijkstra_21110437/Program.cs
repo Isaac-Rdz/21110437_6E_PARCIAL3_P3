@@ -1,4 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+//21110437
+//EMMANUEL ISAAC RODRIGUEZ MENDEZ
+//ALGORITMO DE DIJKSTRA PRACTICA 3
 using System;
 using System.Collections.Generic;
 
